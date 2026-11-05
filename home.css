@@ -1,7 +1,7 @@
 body{
   font-family:fantasy;
   color: #ffffff;
-  margin:0;
+  margin: 0;
   background-image:url("2nd\ Sample\ background.png");
   background-size: cover;
   background-position: center;
@@ -155,7 +155,7 @@ footer{
     margin-top:15px;
     margin-bottom:15px;
     border-radius:10px;
-    max-width:100%;
+    max-width:55%;
 }
 
 .card h2{
