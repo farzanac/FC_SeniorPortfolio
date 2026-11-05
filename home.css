@@ -27,7 +27,7 @@ nav a{
 }
 
 .card{
-  background:#8FA6C9;
+  background:#722c4f;
   padding:30px;
   max-width:700px;
   margin:auto; 
@@ -35,14 +35,14 @@ nav a{
 } 
 
 .resource-card {
-  background-color: #8FA6C9;
+  background-color: #722c4f;
   padding: 8px; 
   max-width:700px;
   margin: auto;
   border-radius: 10px;
 }
 nav{
-  background:#D3A1BE;
+  background:#3c2432;
   height:100px;
   display:flex;
   justify-content:space-between;
@@ -66,7 +66,7 @@ nav ul li{
 }
 
 nav a{
-  color:#0d2748;
+  color:#92647d;
   text-decoration:none;
   font-size:30px;
   font-weight:bold;
@@ -74,7 +74,7 @@ nav a{
 }
 
 nav a:hover{
-  color:#bcd7ff;
+  color:#e8b4d7;
 }
 
 
@@ -84,7 +84,7 @@ nav a:hover{
   position:absolute;
   top:45px;
   left:0;
-  background:#889bb8;
+  background:#722c4f;
   min-width:220px;
   border-radius:12px;
   display:none;
@@ -104,7 +104,7 @@ nav a:hover{
 }
 
 .dropdown-menu a:hover{
-  background:#8FA6C9;
+  background:#722c4f;
 }
 
 .dropdown:hover .dropdown-menu{
@@ -126,7 +126,7 @@ footer{
 }
 
 .project-card{
-    background:#8FA6C9;
+    background:#722c4f;
     width:350px;
     padding:30px;
     border-radius:15px;
@@ -159,7 +159,7 @@ footer{
 }
 
 .card h2{
-    color:#0d2748;
+    color:#92647d;
     margin-bottom:15px;
 }
 
@@ -194,7 +194,7 @@ footer{
 
 
 .card{
-  background:#8FA6C9;
+  background:#722c4f;
   padding:30px;
   max-width:700px;
   margin:30px auto;
@@ -208,7 +208,7 @@ footer{
 }
 
 .card p{
-  color:#0d2748;
+  color:#92647d;
   font-size:20px;
   line-height:1.6;
 }
@@ -221,7 +221,7 @@ footer{
 
 .card p{
   font-size:20px;
-  color:#0d2748;
+  color:#92647d;
 }
 
 .card h2{
