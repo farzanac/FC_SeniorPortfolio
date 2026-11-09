@@ -3,19 +3,13 @@ body{
   text-align: center;
   color: #ffffff;
   margin: 0;
-  background-image: url(2nd\ Sample\ background.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: #2c3e50; 
+  background-color: #FFE0F0; 
 }
 
 h1 {
-  text-align: right;
-  word-spacing: 2px;
-}
-h3 {
-  letter-spacing:3px;
+  color:#3c2432;
+  text-align: center;
+  word-spacing: 9px;
 }
 
 nav a{
@@ -140,7 +134,8 @@ footer{
 
 .project-card:hover{
     transform:translateY(-8px);
-    background:#b8c8e0;
+    background:#E0FFEB;
+    color: #30804B;
 }
 
 .project-card h2{
@@ -205,7 +200,7 @@ footer{
 }
 
 .card h2{
-  color:#0d2748;
+  color:#528030;
   margin-bottom:15px;
 }
 
@@ -222,10 +217,11 @@ footer{
 }
 
 .card p{
+  color:#FFE0F0;
   font-size:20px;
-  color:#92647d;
+  
 }
 
 .card h2{
-  color:#0d2748;
+  color:#528030;
 }
