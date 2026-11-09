@@ -200,7 +200,7 @@ footer{
 }
 
 .card h2{
-  color:#528030;
+  color:#fbfcfa;
   margin-bottom:15px;
 }
 
@@ -223,5 +223,6 @@ footer{
 }
 
 .card h2{
-  color:#528030;
+  color:#c5e6d0;
+  letter-spacing: 3px;
 }
