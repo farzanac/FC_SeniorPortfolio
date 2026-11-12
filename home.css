@@ -1,7 +1,7 @@
 body{
   font-family:fantasy;
   text-align: center;
-  color: #ffffff;
+  color: #722c4f;
   margin: 0;
   background-color: #FFE0F0; 
 }
@@ -125,12 +125,11 @@ footer{
 }
 
 .project-card{
-    background:#722c4f;
     width:350px;
     padding:30px;
     border-radius:15px;
     text-decoration:none;
-    color:#cb92b0;
+    color:#722c4f;
     transition:0.3s;
     box-shadow:0 4px 10px rgba(0,0,0,0.2);
 }
