@@ -37,6 +37,9 @@ nav a{
   text-align:middle;
   border-radius: 10px;
 }
+
+
+
 nav{
   background:#3c2432;
   height:100px;
@@ -182,12 +185,23 @@ footer{
 }
 
 .link-pic {
-  height: 80px;
-  width: 80px;
-  border-radius: 10px;
-  border: 2px solid white;
+  height: 100px;
+  width: 101px;
   object-fit: cover;
 }
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 
 .card{
