@@ -203,7 +203,13 @@ a:visited {
 }
 
 footer{
-    text-align:center;
+    text-align: center;
     margin-top:100px;
     color:rgb(255, 255, 255);
+}
+
+.resourcefooter-card {
+  background:#3c2432;
+  height:40px;
+ 
 }
