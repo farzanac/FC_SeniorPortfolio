@@ -13,22 +13,6 @@ h1 {
 }
 
 
-/*
-.card{
-  background:#722c4f;
-  padding:30px;
-  max-width:700px;
-  border-radius:10px;
-} 
-
-.resource-card {
-  background-color: #722c4f;
-  padding: 8px; 
-  margin: auto;
-  text-align:middle;
-}
-
-*/
 
 nav{
   background:#3c2432;
@@ -161,8 +145,8 @@ a:visited {
   background-color:#722c4f;
   padding:30px;
   max-width:700px;
-  margin:30px auto;
-  border-radius:10px;
+  margin:30px auto 0 auto;
+  border-radius: 10px 10px 0 0;
   text-align: center;
 }
 
@@ -187,8 +171,10 @@ a:visited {
  
 .resource-card {
   background-color: #722c4f;
-  padding: 8px; 
-  margin: auto;
+  padding: 20px 30px 30px 30px; 
+  max-width: 700px;
+  margin: 0 auto 30px auto;
+  border-radius: 0 0 10px 10px;
   text-align:center;
 }
 
@@ -215,45 +201,7 @@ a:visited {
   width: 101px;
   object-fit: cover;
 }
-/*
-.card h2{
-    color:#92647d;
-    margin-right:15px;
-}
 
-.card p{
-    color:#dea6cf;
-    font-size:18px;
-    line-height:1.6;
-}
-
-
-
-
-
-
-
-
-
-
-.card h2{
-  color:#fbfcfa;
-  margin-bottom:15px;
-}
-
-.card p{
-  color:#92647d;
-  font-size:20px;
-  line-height:1.6;
-}
-
-.card img{
-  margin: center;
-}
-
-
-
-*/
 footer{
     text-align:center;
     margin-top:100px;
